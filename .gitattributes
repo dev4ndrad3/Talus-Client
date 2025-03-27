@@ -1,0 +1,17 @@
+conf filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
+cache filter=lfs diff=lfs merge=lfs -text
+log filter=lfs diff=lfs merge=lfs -text
+minimap filter=lfs diff=lfs merge=lfs -text
+package.json filter=lfs diff=lfs merge=lfs -text
+storeimages filter=lfs diff=lfs merge=lfs -text
+assets.json filter=lfs diff=lfs merge=lfs -text
+characterdata filter=lfs diff=lfs merge=lfs -text
+package.json.version filter=lfs diff=lfs merge=lfs -text
+bin filter=lfs diff=lfs merge=lfs -text
+crashdump filter=lfs diff=lfs merge=lfs -text
+default filter=lfs diff=lfs merge=lfs -text
+screenshots filter=lfs diff=lfs merge=lfs -text
+sounds filter=lfs diff=lfs merge=lfs -text
+assets filter=lfs diff=lfs merge=lfs -text
+assets.json.sha256 filter=lfs diff=lfs merge=lfs -text
